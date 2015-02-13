@@ -1,7 +1,7 @@
 ## Getting-and-Cleaning-Data
 
 ## Summary
-The script "run_analysis.R" has performed by following the 5 steps.
+The script `run_analysis.R` has performed by following the 5 steps.
 * First, all of similar data; train, test and subject data, are merged by using 'rbind()' function.
 * Second, data with mean and std were taken from the whole dataset. 
 * Third, descriptive activity name was given to the activities in the data set.
