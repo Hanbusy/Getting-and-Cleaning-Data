@@ -1,6 +1,6 @@
-+# Getting-and-Cleaning-Data
++## Getting-and-Cleaning-Data
 +
-+# Summary
++## Summary
 +The script 'run_analysis.R' has performed by following the 5 steps.
 +* First, all of similar data; train, test and subject data, are merged by using 'rbind()' function.
 +* Second, data with mean and std were taken from the whole dataset. 
@@ -9,7 +9,7 @@
 +* Lastly, Generate a new data set with all of necessary data. Plus, 'tidy_data.txt' is created as a result.
 +
 +
-+# Variables
++## Variables
 +* `x_train`, `y_train`, `x_test`, `y_test`, `subject_train` and `subject_test` contain the data from the downloaded files.
 +* `features` contains the correct names for the `x_data` dataset, which are applied to the column names stored in `mean_and_std_features`, a numeric vector used to extract the desired data. 
 +* Similar approach is taken with activity names through the `activities` variable.
