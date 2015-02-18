@@ -1,5 +1,4 @@
 ## Getting and Cleaning Data
-## By Jinsu, Han
 
 ### Overview
 The purpose of this project is to take a dataset from the web, manipulate, add descriptions and produce a tidy dataset that can be used for later analysis. The data was collected from the accelerometers from the Samsung Galaxy S smartphone. 
